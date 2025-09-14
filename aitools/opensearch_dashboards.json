@@ -1,7 +1,7 @@
 {
   "id": "aitools",
   "version": "1.0.0",
-  "opensearchDashboardsVersion": "opensearchDashboards",
+  "opensearchDashboardsVersion": "2.19.1",
   "configPath": ["aitools"],
   "server": true,
   "ui": true,

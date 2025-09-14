@@ -1,7 +1,7 @@
 {
   "id": "wikipedia_iframe",
   "version": "1.0.0",
-  "opensearchDashboardsVersion": "opensearchDashboards",
+  "opensearchDashboardsVersion": "2.19.1",
   "configPath": ["wikipedia_iframe"],
   "server": true,
   "ui": true,

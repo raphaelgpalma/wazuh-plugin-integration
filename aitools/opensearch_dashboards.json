@@ -1,0 +1,10 @@
+{
+  "id": "aitools",
+  "version": "1.0.0",
+  "opensearchDashboardsVersion": "opensearchDashboards",
+  "configPath": ["aitools"],
+  "server": true,
+  "ui": true,
+  "requiredPlugins": [],
+  "optionalPlugins": []
+}

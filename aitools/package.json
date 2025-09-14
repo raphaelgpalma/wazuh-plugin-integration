@@ -1,0 +1,12 @@
+{
+  "name": "aitools",
+  "version": "1.0.0",
+  "description": "A plugin that displays AI Tools in an iframe",
+  "main": "target/public/aitools.plugin.js",
+  "opensearchDashboards": {
+    "version": "opensearchDashboards"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}

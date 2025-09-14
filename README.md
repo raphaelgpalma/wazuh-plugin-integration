@@ -1,0 +1,1 @@
+# wazuh-plugin-integration

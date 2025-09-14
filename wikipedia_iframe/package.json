@@ -4,7 +4,7 @@
   "description": "A plugin that displays Wikipedia in an iframe",
   "main": "target/public/wikipedia_iframe.plugin.js",
   "opensearchDashboards": {
-    "version": "opensearchDashboards"
+    "version": "2.19.1"
   },
   "scripts": {},
   "devDependencies": {},

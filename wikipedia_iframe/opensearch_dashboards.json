@@ -1,0 +1,10 @@
+{
+  "id": "wikipedia_iframe",
+  "version": "1.0.0",
+  "opensearchDashboardsVersion": "opensearchDashboards",
+  "configPath": ["wikipedia_iframe"],
+  "server": true,
+  "ui": true,
+  "requiredPlugins": [],
+  "optionalPlugins": []
+}
